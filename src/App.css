@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid rgb(41, 0, 128);
+  border: 3px solid rgb(0, 128, 51);
   padding: 10px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 h1 { 
-    color: magenta;
+    color: rgb(0, 255, 166);
 }
 
 h3 { 
